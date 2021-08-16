@@ -23,6 +23,7 @@ Contributing comes in many forms! I'm incredibly grateful to anyone who can do a
 
 ## Issues
 
+* If your issue is security related, please follow the [SECURITY guide](https://github.com/justintime50/.github/SECURITY.md)
 * Before opening a new issue, check for existing issues that are related including closed ones
 * Provide as much information as possible about the issue, how to reproduce the problem, and the expected behavior
 * Don't needlessly bump issues
