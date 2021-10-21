@@ -2,6 +2,8 @@
 
 Please read this document in its entirety.
 
+All contributions must abide by my [style guide](https://github.com/Justintime50/styles).
+
 ## General
 
 * Be nice and respectful of maintainers and contributors time and viewpoints
