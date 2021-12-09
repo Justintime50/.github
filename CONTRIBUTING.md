@@ -8,7 +8,7 @@ All contributions must abide by my [style guide](https://github.com/Justintime50
 
 * Be nice and respectful of maintainers and contributors time and viewpoints
 * Be as descriptive as possible! More info is always better than not enough
-* Be patient, there may be a lot of in-flight work even across projects
+* Be patient, there may be a lot of in-flight work, some of it across multiple projects not related to the repo being contributed to
 * Have fun!
 
 ## Contributing
