@@ -35,7 +35,7 @@ Contributing comes in many forms! I'm incredibly grateful to anyone who can do a
 * Pull Requests should be accompanied first by an issue describing the reason a PR may be needed
 * Don't make unrelated changes in your Pull Requests
 * Pull Requests should be as small as possible
-* Don't open a Pull Request if you don't plan to see it through, PRs submitted by individuals that cannot complete additional work to get a PR merged may have it closed
+* Don't open a Pull Request if you don't plan to see it through, PRs submitted by individuals that cannot complete additional work to get a PR merged may get closed
 * Adhere to the existing code style of the repo, even if it differs from your personal preference
 * When applicable, add tests that provide ample coverage of the logic added or changed
 * Pull Requests should come from branches and never the default `main` or `master` branch
