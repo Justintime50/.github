@@ -8,4 +8,4 @@ These files will automatically be included in each `Justintime50` repo unless on
 
 ## Styles
 
-I have documented my style guides per language externally which can be found here: https://github.com/Justintime50/styles.
+I have documented my style guides per language externally which can be found here: <https://github.com/Justintime50/styles>.
